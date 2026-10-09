@@ -9,3 +9,5 @@ Preparar la estructura inicial de un proyecto utilizando Python, Git y GitHub.
 - GitHub
 ## Autor
 Tu Nombre completo
+## Estado del proyecto
+Proyecto en etapa inicial.
